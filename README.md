@@ -2,7 +2,7 @@
 
 ### Hi, I'm Nazrul 👋:smiley:
 
-I’m a backend developer. I currently work as a :rocket: Software Engineer at :office: Binate Solution Ltd.
+I’m a backend developer. I currently work as a Software Engineer at Binate Solution Ltd.
 
 - :computer:  Currently building the backend of an enterprise software with Python.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
