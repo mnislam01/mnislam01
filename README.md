@@ -4,7 +4,7 @@
 **mnislam01/mnislam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently at Binate Solutions
+- 🔭 I’m currently working at Binate Solutions
 - 💬 Ask me about Python
 - 📫 How to reach me: mnazrul.c@gmail.com
 - 😄 Pronouns: He/Him
