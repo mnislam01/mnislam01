@@ -6,6 +6,6 @@
 
 - :office: I’m currently working at Binate Solutions 
 - 💬 Ask me about :snake: Python 
-- 📫 How to reach me: mnazrul.c@gmail.com
+- 📫 Reach me: mnazrul.c@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can make jokes about anything
