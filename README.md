@@ -1,11 +1,12 @@
-### Hi there 👋
+<img align="right" src="illustration.jpg" width=400px height=465px/>
 
-<!--
-**mnislam01/mnislam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi, I'm Nazrul 👋
 
-- :office: I’m currently working at Binate Solutions 
-- 💬 Ask me about :snake: Python 
-- 📫 Reach me: mnazrul.c@gmail.com
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I can make jokes about anything
+I’m a backend developer. I currently work as a :rocket: Software Engineer at :office: Binate Solution Ltd.
+
+- :computer: Currently building backend of an experprise software with Python.
+- 🤓 Currently learning Go and Rust.
+- 💬 Ask me about Python, Django, DRF, Docker, Postgresql, Redis, Elasticsearch
+- 📫 How to reach me: mnazrul.c@gmail.com or Twitter [@mnislam0101](twitter.com/mnislam01)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love reading non-fictions, sci-fi and watching sci-fi moveis and tv/web series
