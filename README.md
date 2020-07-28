@@ -1,4 +1,4 @@
-<img align="right" src="illustration.jpg" width=400px height=465px/>
+<img align="right" src="https://github.com/mnislam01/mnislam01/blob/master/illustration.jpg" width=400px height=465px/>
 
 ### Hi, I'm Nazrul 👋
 
