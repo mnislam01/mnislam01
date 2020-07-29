@@ -6,7 +6,7 @@ I’m a backend developer. I currently work as a Software Engineer at Binate Sol
 
 - :computer:  Currently building the backend of an enterprise software with Python.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
-- 💬  Ask me about Python, Django, DRF, Docker, Postgresql, Redis, Elasticsearch.
+- 💬  Ask me about Python, Django, DRF, Docker, Postgresql, Redis, Elasticsearch, Design Pappterns, Software Architecture, Algorithms and Data Structures.
 - 📫  How to reach me: mnazrul.c@gmail.com or Twitter [@mnislam01](twitter.com/mnislam01).
 - 😄  Pronouns: he/his.
 - ⚡  Fun fact: I love reading non-fictions, sci-fi novels. Love watching sci-fi moveis and tv/web series.
