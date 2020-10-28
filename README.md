@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/mnislam01/mnislam01/blob/master/illustration.jpg" width=500px height=400px/>
 
-### Hi, I'm Nazrul 👋:smiley:
+### Hi, I'm Nazrul 👋
 
 I’m a backend developer. I currently work as a Software Engineer at Binate Solution Ltd.
 
