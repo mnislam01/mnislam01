@@ -4,7 +4,7 @@
 
 I’m a backend developer. I currently work as a Software Engineer at Binate Solution Ltd.
 
-- :computer:  Currently building the backend of an enterprise software with Python.
+- :computer: Building the backend of an enterprise software with Python.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
 - 💬  Ask me about Python, Django, DRF, Flask, FastAPI, Docker, Postgresql, Redis, Elasticsearch, CI/CD, Design patterns, Software Architecture, Algorithms and Data Structures.
 - 📫  How to reach me: mnazrul.c@gmail.com or Twitter [@mnislam01](twitter.com/mnislam01).
