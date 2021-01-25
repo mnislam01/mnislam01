@@ -1,10 +1,10 @@
 <img align="right" src="https://github.com/mnislam01/mnislam01/blob/master/illustration.jpg" width=500px height=400px/>
 
-### Hi, I'm Nazrul 👋
+### Hey, I'm Nazrul 🤝
 
-A backend developer. Currently working at Binate Solutions.
+Backend developer. Currently working at Binate Solutions.
 
-- :computer: Building the backend of enterprise software.
+- :computer: Building the backend of enterprise softwares.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
 - 💬  Ask me about Python, Django, DRF, Flask, FastAPI, Docker, Postgresql, Redis, Elasticsearch, CI/CD, Design patterns, Software Architecture, Algorithms and Data Structures.
 - 📫  Reach me: mnazrul.c@gmail.com or Twitter [@mnislam01](twitter.com/mnislam01).
