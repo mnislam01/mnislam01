@@ -2,11 +2,11 @@
 
 ### Hi, I'm Nazrul 👋
 
-I’m a backend developer. I currently work as a Software Engineer at Binate Solution Ltd.
+A backend developer. Currently working at Binate Solutions.
 
-- :computer: Building the backend of an enterprise software with Python.
+- :computer: Building the backend of enterprise software.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
 - 💬  Ask me about Python, Django, DRF, Flask, FastAPI, Docker, Postgresql, Redis, Elasticsearch, CI/CD, Design patterns, Software Architecture, Algorithms and Data Structures.
-- 📫  How to reach me: mnazrul.c@gmail.com or Twitter [@mnislam01](twitter.com/mnislam01).
+- 📫  Reach me: mnazrul.c@gmail.com or Twitter [@mnislam01](twitter.com/mnislam01).
 - 😄  Pronouns: he/his.
-- ⚡  Fun fact: I love reading non-fictions, sci-fi novels. Love watching sci-fi moveis and tv/web series.
+- ⚡  Fun fact: Love reading non-fictions, sci-fi novels, stories and watching moveis and series.
