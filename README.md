@@ -2,7 +2,7 @@
 
 ### Hey, I'm Nazrul 🤝
 
-Backend developer. Currently working at Binate Solutions.
+Backend developer.
 
 - :computer: Building the backend of enterprise softwares.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
