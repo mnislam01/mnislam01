@@ -1,8 +1,6 @@
-<img align="right" src="https://github.com/mnislam01/mnislam01/blob/master/illustration.jpg" width=500px height=400px/>
-
 ### Hey, I'm Nazrul 🤝
 
-Backend developer.
+Software Engineer (Backend).
 
 - :computer: Building the backend of enterprise softwares.
 - 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
