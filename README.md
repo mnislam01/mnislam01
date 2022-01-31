@@ -3,7 +3,7 @@
 Software Engineer (Backend).
 
 - :computer: Building the backend of enterprise softwares.
-- 🤓  Learning Go, Rust, JavaScript, VueJs, NuxtJs.
+- 🤓  Python, Go, Rust, React.
 - 💬  Ask me about Python, Django, DRF, Flask, FastAPI, Docker, Postgresql, Redis, Elasticsearch, CI/CD, Design patterns, Software Architecture, Algorithms and Data Structures.
 - 📫  Reach me: mnazrul.c@gmail.com or Twitter [@mnislam01](twitter.com/mnislam01).
 - 😄  Pronouns: he/him.
