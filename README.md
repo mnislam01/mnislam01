@@ -7,8 +7,8 @@ I am **Nazrul**, a passionate **Software Engineer** working at **Binate Solution
 class Bio:
     def __init__(self):
         self.streangth = "Backend Developer and DevOps"
-        self.currently_working = "Senior Software Engineer I @Binate Solutions."
-        self.currently_learning = "AI, Golang, Rust, MongoDB, Redis, K8s, GCP, NextJS"
+        self.current_position = "Senior Software Engineer @Binate Solutions."
+        self.current_interest = "AI, Golang, Rust, MongoDB, Redis, K8s, GCP, NextJS"
         self.ask_me_about = self.get_skills()
         self.contact = "mnazrul.c@gmail.com"
 
@@ -20,8 +20,8 @@ class Bio:
 
     def __str__(self):
         return f"🔰 Quick bio: {self.streangth}\n" \
-               f"💻 I'm currently working as: {self.currently_working}\n" \
-               f"🌱 I'm currently learning: {self.currently_learning}\n" \
+               f"💻 I'm currently working as: {self.current_position}\n" \
+               f"🌱 I'm enthusiast about: {self.current_interest}\n" \
                f"👯 I'm looking to collaborate on: {self.ask_me_about}\n" \
                f"📫 How to reach me: {self.contact}\n" \
                f"🤘 Fun fact: I love to play Chess."
