@@ -6,7 +6,7 @@ I am **Nazrul**, a passionate **Software Engineer** working at **Binate Solution
 ```python
 class Bio:
     def __init__(self):
-        self.streangth = "Backend Developer and DevOps"
+        self.strength = "Backend Developer and DevOps"
         self.current_position = "Senior Software Engineer @Binate Solutions."
         self.current_interest = "AI, Golang, Rust, MongoDB, Redis, K8s, GCP, NextJS"
         self.ask_me_about = self.get_skills()
@@ -19,7 +19,7 @@ class Bio:
         return f"{', '.join(skills_set)}"
 
     def __str__(self):
-        return f"🔰 Quick bio: {self.streangth}\n" \
+        return f"🔰 Quick bio: {self.strength}\n" \
                f"💻 I'm currently working as: {self.current_position}\n" \
                f"🌱 I'm enthusiast about: {self.current_interest}\n" \
                f"👯 I'm looking to collaborate on: {self.ask_me_about}\n" \
